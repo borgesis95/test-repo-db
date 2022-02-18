@@ -6,18 +6,21 @@
             "form": [
                 {
                     "id": 1,
+                    "key": "nome",
                     "type": "text",
                     "placeholder": "Inserisci testo"
                 },
                 {
                     "id": 2,
+                    "key": "cognome",
                     "type": "textbox",
                     "placeholder": "Inserisci testo in Textvox"
                 },
                 {
                     "id": 3,
+                    "key": "file",
                     "type": "image",
-                    "placeholder": "Inserisci testo in Textvox"
+                    "placeholder": "Immagine"
                 }
             ]
         },
@@ -27,39 +30,21 @@
             "form": [
                 {
                     "id": 1,
+                    "key": "nome",
                     "type": "text",
                     "placeholder": "Inserisci testo modulo 2"
                 },
                 {
                     "id": 2,
+                    "key": "cognome",
                     "type": "textbox",
-                    "placeholder": "Inserisci testo modulo 2"
+                    "placeholder": "Inserisci testo in modulo 2"
                 },
                 {
                     "id": 3,
+                    "key": "file",
                     "type": "image",
-                    "placeholder": "Inserisci testo in modulo 3"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "title": "modulo 3",
-            "form": [
-                {
-                    "id": 1,
-                    "type": "text",
-                    "placeholder": "Inserisci testo"
-                },
-                {
-                    "id": 2,
-                    "type": "textbox",
-                    "placeholder": "Inserisci testo in Textvox"
-                },
-                {
-                    "id": 3,
-                    "type": "image",
-                    "placeholder": "Inserisci testo in Textvox"
+                    "placeholder": "Immagine"
                 }
             ]
         }
