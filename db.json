@@ -1,0 +1,67 @@
+{
+    "moduli": [
+        {
+            "id": 1,
+            "title": "modulo 1",
+            "form": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "placeholder": "Inserisci testo"
+                },
+                {
+                    "id": 2,
+                    "type": "textbox",
+                    "placeholder": "Inserisci testo in Textvox"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "placeholder": "Inserisci testo in Textvox"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "modulo 2",
+            "form": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "placeholder": "Inserisci testo modulo 2"
+                },
+                {
+                    "id": 2,
+                    "type": "textbox",
+                    "placeholder": "Inserisci testo modulo 2"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "placeholder": "Inserisci testo in modulo 3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "modulo 3",
+            "form": [
+                {
+                    "id": 1,
+                    "type": "text",
+                    "placeholder": "Inserisci testo"
+                },
+                {
+                    "id": 2,
+                    "type": "textbox",
+                    "placeholder": "Inserisci testo in Textvox"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "placeholder": "Inserisci testo in Textvox"
+                }
+            ]
+        }
+    ]
+}
